@@ -8,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace DataLayer.Entities
 {
-    public class Post
+    public class Post : BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
+
         public int UserId { get; set; }
         public int CategoryId { get; set; }
         [Required]
@@ -23,6 +22,7 @@ namespace DataLayer.Entities
         [Required]
         public string Description { get; set; }
 
+        #region Relations
         [ForeignKey("UserId")]
         public User User { get; set; }
 
@@ -30,5 +30,6 @@ namespace DataLayer.Entities
         public Category Category { get; set; }
 
         public ICollection<PostComment> PostComments { get; set; }
+        #endregion
     }
 }

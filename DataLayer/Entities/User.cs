@@ -7,17 +7,19 @@ using System.Threading.Tasks;
 
 namespace DataLayer.Entities
 {
-    public class User
+    public class User : BaseEntity
     {
-        [Key]
-        public int Id { get; set; }
+
         [Required]
         public string UserName { get; set; }
         public string FullName { get; set; }
         [Required]
         public string Password { get; set; }
+
+        #region Relations
         public ICollection<PostComment> PostComments { get; set; }
         public ICollection<Post> Posts { get; set; }
+        #endregion
     }
     enum UserRole
     {
