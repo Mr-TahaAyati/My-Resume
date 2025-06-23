@@ -79,3 +79,7 @@ C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\refint\My Resu
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\My Resume.pdb
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\My Resume.genruntimeconfig.cache
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\ref\My Resume.dll
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideMenu.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideNav.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_TopBar.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
