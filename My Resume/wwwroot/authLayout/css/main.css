@@ -1,0 +1,97 @@
+/* Modernized CSS */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #DCDFE2 url(https://cssdeck.com/uploads/media/items/7/7AF2Qzt.png) no-repeat center center fixed;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    color: #333;
+    direction: rtl;
+    text-align: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 400px;
+    background: linear-gradient(to bottom, #f8f8f8, #f9f9f9);
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 25px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 24px;
+    color: #563D64;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+h1::after, h1::before {
+    content: "";
+    height: 2px;
+    width: 30%;
+    background: #aaa;
+    position: absolute;
+    top: 50%;
+}
+
+h1::before { left: 0; }
+
+h1::after { right: 0; }
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+input[type="text"]:focus, input[type="password"]:focus {
+    border-color: #ed1c24;
+    outline: none;
+    box-shadow: 0 0 5px rgba(237, 28, 36, 0.3);
+}
+
+button {
+    background: linear-gradient(to bottom, #fee79a, #fec151);
+    border: none;
+    border-radius: 25px;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #85592e;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background: linear-gradient(to bottom, #fec151, #fee79a);
+}
+
+a {
+    color: #004a80;
+    text-decoration: none;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+a:hover {
+    text-decoration: underline;
+}

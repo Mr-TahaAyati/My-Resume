@@ -1,0 +1,25 @@
+﻿@page
+@model My_Resume.Pages.Auth.LoginModel
+@{
+    Layout = "Shared/_AuthLayout";
+    ViewData["Title"] = "ثبت نام";
+}
+<h1>@ViewData["Title"]</h1>
+<form>
+    <div class="input-group">
+        <i class="fa fa-user"></i>
+        <input type="text" placeholder="نام و نام خانوادگی"  />
+    </div>
+    <div class="input-group">
+        <i class="fa fa-user"></i>
+        <input type="text" placeholder="نام کاربری" />
+    </div>
+    <div class="input-group">
+        <i class="fa fa-lock"></i>
+        <input type="password" placeholder="کلمه عبور"  />
+    </div>
+    <button type="submit" class="btn">ثبت نام</button>
+    <div class="links">
+        <a asp-page="Register">ورود</a>
+    </div>
+</form>

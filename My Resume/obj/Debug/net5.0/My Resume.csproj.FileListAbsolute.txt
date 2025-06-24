@@ -83,3 +83,6 @@ C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Sh
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_SideNav.cshtml.g.cs
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\Headers\_TopBar.cshtml.g.cs
 C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\_Footer.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
+C:\Users\Soleimani\source\repos\Weblog\My Resume\obj\Debug\net5.0\Razor\Pages\Shared\_AuthLayout.cshtml.g.cs

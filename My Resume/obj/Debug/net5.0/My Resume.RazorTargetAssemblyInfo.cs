@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("My Resume")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc0f59c0dca7382255418b6d32b5fe05012511b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ebd58ef1a15b0ddc7bd4722324513183c3e6b1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("My Resume.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

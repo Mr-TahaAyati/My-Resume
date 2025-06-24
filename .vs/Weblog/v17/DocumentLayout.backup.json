@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|c:\\users\\soleimani\\source\\repos\\weblog\\my resume\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|solutionrelative:my resume\\pages\\shared\\_authlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|c:\\users\\soleimani\\source\\repos\\weblog\\my resume\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|solutionrelative:my resume\\pages\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|c:\\users\\soleimani\\source\\repos\\weblog\\my resume\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|solutionrelative:my resume\\pages\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|c:\\users\\soleimani\\source\\repos\\weblog\\my resume\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7446B5EC-F9F9-4A19-8C8C-E724106C7965}|My Resume\\My Resume.csproj|solutionrelative:my resume\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +66,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "My Resume\\Pages\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Auth\\Register.cshtml",
+              "RelativeToolTip": "My Resume\\Pages\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T07:34:37.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "My Resume\\Pages\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Auth\\Login.cshtml",
+              "RelativeToolTip": "My Resume\\Pages\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T07:29:47.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ToolTip": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_AuthLayout.cshtml",
+              "RelativeToolTip": "My Resume\\Pages\\Shared\\_AuthLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T07:18:25.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "My Resume.csproj",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\My Resume.csproj",
               "RelativeDocumentMoniker": "My Resume\\My Resume.csproj",
@@ -62,12 +113,11 @@
               "RelativeToolTip": "My Resume\\My Resume.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T11:49:35.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:49:35.293Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DataLayer.csproj",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\DataLayer\\DataLayer.csproj",
               "RelativeDocumentMoniker": "DataLayer\\DataLayer.csproj",
@@ -75,12 +125,11 @@
               "RelativeToolTip": "DataLayer\\DataLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T11:49:31.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:49:31.045Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Index.cshtml",
@@ -92,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\_Footer.cshtml",
@@ -104,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "_SideMenu.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\Headers\\_SideMenu.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\Headers\\_SideMenu.cshtml",
@@ -116,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_TopBar.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\Headers\\_TopBar.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\Headers\\_TopBar.cshtml",
@@ -128,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_SideNav.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\Headers\\_SideNav.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\Headers\\_SideNav.cshtml",
@@ -140,13 +189,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "My Resume\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "My Resume\\Pages\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADAAAAAWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Soleimani\\source\\repos\\Weblog\\My Resume\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "My Resume\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-23T11:31:59.993Z",
               "EditorCaption": ""
